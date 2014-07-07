@@ -297,9 +297,9 @@
         </option>
         <option>
           <name>CCIncludePath2</name>
-          <state>C:\Users\Changning\Desktop\template\device</state>
-          <state>C:\Users\Changning\Desktop\template\CMSIS\inc</state>
-          <state>C:\Users\Changning\Desktop\template\emlib\inc</state>
+          <state>$PROJ_DIR$\device</state>
+          <state>$PROJ_DIR$\emlib\inc</state>
+          <state>$PROJ_DIR$\CMSIS\inc</state>
         </option>
         <option>
           <name>CCStdIncCheck</name>
