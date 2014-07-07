@@ -9,6 +9,7 @@ int main()
   while(1)
   {
     a=1;
+    int b=0;
   }
   
   
